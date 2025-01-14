@@ -1,0 +1,47 @@
+# 虚拟环境
+venv/
+.env/
+
+# Python 缓存及其他
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# 配置文件
+*.env
+secrets.json
+
+# 日志
+logs/
+*.log
+
+# 数据库文件
+*.sqlite3
+*.db
+__data__/
+
+# 编辑器和开发工具
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints
+
+# Docker
+*.pid
+*.pid.lock
+docker-compose.override.yml
+
+# 测试和覆盖率
+.coverage
+.tox/
+.coverage.*
+.cache/
+nosetests.xml
+*.cover
+
+# static/media
+/media/

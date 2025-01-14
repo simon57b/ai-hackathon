@@ -1,0 +1,49 @@
+{
+  "[[\"url\", \"https://57blocks.com/\"]]": {
+    "params": {
+      "url": "https://57blocks.com/"
+    },
+    "result": {
+      "company_name": "57Blocks",
+      "website": "https://57blocks.com/",
+      "background": "57Blocks is a technology company with a focus on engineering talent, working with top brands to create innovative solutions. The company boasts a high Glassdoor rating of 4.9/5, employs over 150 full-time employees, and has a retention rate of 92%.\n57Blocks has been building globally distributed engineering teams since 2003. The core team has been working together through five different companies and has collaborated with over 57 pre-seed startups globally, as well as some of the largest companies in the world to co-create new products at scale.\n57Blocks has been building globally distributed engineering teams since 2003. The core team has worked together through five different companies and has collaborated with over 57 pre-seed startups globally. They have also worked with some of the largest companies in the world to co-create new products at scale.",
+      "founders": [],
+      "funding": [],
+      "legal_issues": [],
+      "security_assessment": {},
+      "user_reviews": [],
+      "overall_summary": "57Blocks is a well-regarded technology company known for its engineering talent and collaboration with top brands. It maintains a high employee retention rate and positive reviews on Glassdoor.\n57Blocks is a company with a long history of building engineering teams and collaborating with startups and large companies to create new products. They emphasize principles such as reliability, responsiveness, flexibility, and high quality.\n57Blocks is a company with deep expertise in building apps, AI, and Web3 products. They have launched over 60 products since 2018 and have worked with major clients like Google, Autodesk, Adobe, and others. They offer services in various tech sectors including DeFi, Fintech, AdTech, AgTech, and HealthTech.",
+      "job_positions": []
+    },
+    "timestamp": "2025-01-13T23:16:59.248409"
+  },
+  "[[\"url\", \"https://li.fi/\"]]": {
+    "params": {
+      "url": "https://li.fi/"
+    },
+    "result": {
+      "company_name": "Li.Fi",
+      "website": "https://li.fi/",
+      "background": "LI.FI provides a unified API to swap, bridge, and zap across all major blockchains and protocols, enabling trading across DEX aggregators, bridges, and intent-systems. The company focuses on connecting TradFi to DeFi with a strong emphasis on security, cost, and time savings.\nLI.FI is a bridge aggregation protocol with DEX connectivity and cross-chain data messaging capabilities. It provides a full cross-chain stack, including a widget for easy integration, an SDK for advanced cross-chain strategies, and a smart routing API for asset swaps across chains. The company aims to make Web3 accessible to both users and developers by building a middle layer between DeFi infrastructure and the dApp layer.",
+      "founders": [
+        {
+          "name": "Philipp",
+          "background": "Philipp has been building companies with Max for 10 years, focusing on DeFi infrastructure and optimizing important parts to accelerate crypto adoption."
+        },
+        {
+          "name": "Max",
+          "background": "Max has been building companies with Philipp for 10 years, focusing on DeFi infrastructure and optimizing important parts to accelerate crypto adoption."
+        }
+      ],
+      "funding": [],
+      "legal_issues": [],
+      "security_assessment": {
+        "security_measures": "Frequent audits, pentests, and enterprise-grade security controls. Collaboration with trusted organizations to create risk-assessment frameworks and risk-mitigation measures."
+      },
+      "user_reviews": [],
+      "overall_summary": "LI.FI is a company that offers a comprehensive API solution for swapping, bridging, and zapping across multiple blockchains. It emphasizes security, cost efficiency, and ease of integration, with a strong focus on DeFi infrastructure.\nLI.FI offers a comprehensive solution for cross-chain transactions, aggregating bridges and DEXs to facilitate any-to-any asset swaps. It provides tools like a widget, SDK, and API to help developers integrate cross-chain functionalities into their applications. The company is focused on expanding the accessibility of Web3 technologies.",
+      "job_positions": []
+    },
+    "timestamp": "2025-01-13T23:18:21.211681"
+  }
+}

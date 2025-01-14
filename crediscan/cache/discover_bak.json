@@ -1,0 +1,654 @@
+{
+  "[[\"max_companies\", 10], [\"urls\", [\"https://startups.gallery/categories/industries/web3\"]]]": {
+    "params": {
+      "urls": [
+        "https://startups.gallery/categories/industries/web3"
+      ],
+      "max_companies": 10
+    },
+    "result": {
+      "discovered_companies": [
+        {
+          "company_name": "Zama",
+          "website": "https://www.zama.ai/",
+          "background": "Zama is an open source cryptography company building state-of-the-art Fully Homomorphic Encryption (FHE) solutions for blockchain and AI. The company is remote-friendly with headquarters in Paris and focuses on solving privacy and security challenges by making homomorphic encryption mainstream.\nZama is a company focused on privacy-preserving technologies, particularly using Fully Homomorphic Encryption (FHE) to enhance confidentiality in machine learning applications, decentralized applications, and various blockchain solutions.\nZama is an open source cryptography company building state-of-the-art Fully Homomorphic Encryption (FHE) solutions for blockchain and AI. They offer a robust suite of open source FHE libraries and solutions, enabling developers to build applications with end-to-end encryption without needing deep cryptographic knowledge.",
+          "founders": [
+            {
+              "name": "Dr Rand Hindi",
+              "background": "Rand is an entrepreneur and deeptech investor. He started coding at the age of 10, founded a Social Network at 14, and started a PhD at 21. He created Snips, a privacy-centric AI startup acquired by Sonos. Rand holds a BSc in Computer Science and a PhD in bioinformatics from UCL."
+            },
+            {
+              "name": "Rand Hindi",
+              "position": "Co-Founder & CEO",
+              "background": "Rand Hindi is the Co-Founder and CEO of Zama. He is involved in building FHE solutions for blockchain and AI."
+            }
+          ],
+          "funding": [],
+          "legal_issues": [],
+          "security_assessment": {
+            "risks": [],
+            "vulnerabilities": []
+          },
+          "user_reviews": [],
+          "overall_summary": "Zama is focused on privacy-preserving technologies using Fully Homomorphic Encryption. The company is led by experienced professionals in cryptography and aims to make privacy a non-issue by encrypting data end-to-end. They are involved in open source communities and backed by investors supporting deeptech companies.\nZama is dedicated to advancing privacy-preserving technologies through the use of Fully Homomorphic Encryption. They offer a range of products and services aimed at enhancing confidentiality in various applications, including machine learning and blockchain. The company collaborates with partners to integrate FHE into projects, ensuring privacy and compliance.\nZama is focused on providing privacy-preserving solutions using Fully Homomorphic Encryption (FHE) for blockchain and AI applications. They offer products like fhEVM for building decentralized applications with privacy on Ethereum, and solutions for confidential stablecoins, decentralized identity, and more. Zama emphasizes the importance of privacy in the digital age and is actively engaged in developing technologies to support this.",
+          "job_positions": []
+        },
+        {
+          "company_name": "Ellipsis Labs",
+          "website": "https://www.ellipsislabs.xyz/",
+          "background": "Ellipsis Labs builds applications and infrastructure to create a sustainable foundation for finance. They focus on modern crypto finance, developing products like Phoenix, a fully on-chain limit orderbook decentralized exchange on Solana, and Atlas, a Layer 2 blockchain for high-performance DeFi applications.\nOur mission is to build a better financial system. We take pride in our strong company culture and mission-driven team.\nCrypto paved the way for new financial systems, and Ellipsis Labs is on a mission to improve the landscape for high-performance applications and advanced use cases. We're upgrading the century-old financial system by replacing the foundation and applications on top. With security, scalability, and speed, we're creating a modern world where finance can exist without boundaries.",
+          "founders": [],
+          "funding": [
+            {
+              "date": "10.31.2024",
+              "amount": "$21M",
+              "lead_investor": "Haun Ventures"
+            },
+            {
+              "description": "Ellipsis Labs has raised from top venture funds to build out one of the strongest engineering teams in crypto."
+            }
+          ],
+          "legal_issues": [],
+          "security_assessment": {},
+          "user_reviews": [],
+          "overall_summary": "Ellipsis Labs is a company focused on building modern crypto finance solutions, with products like Phoenix and Atlas. They have raised $21M in funding led by Haun Ventures.\nEllipsis Labs is focused on creating a better financial system with a strong company culture and mission-driven team.\nEllipsis Labs is focused on enhancing the financial system through high-performance applications in the crypto space, emphasizing security, scalability, and speed. The company is backed by top venture funds.",
+          "job_positions": []
+        },
+        {
+          "company_name": "Hyperbolic",
+          "website": "https://hyperbolic.xyz/",
+          "background": "Hyperbolic is an initiative driven by the belief that AI should be an openly shared asset. The company is building an open-access platform for AI development by aggregating idle computing resources and making it simple to use them. This approach allows individuals and organizations to use collective computing capacity for AI model training and hosting models on their platform, thus enabling open access to AI.",
+          "founders": [
+            {
+              "name": "Dr. Jasper (Yue) Zhang",
+              "background": "Co-Founder & CEO. Completed Math Ph.D. at UC Berkeley in 2 years. Gold Medalist at Alibaba Global Math Competition and Chinese Mathematical Olympiad. Previously at Ava Labs and Citadel Securities."
+            },
+            {
+              "name": "Dr. Yuchen Jin",
+              "background": "Co-Founder & CTO. Led Relax, an innovative open-source AI compiler within Apache TVM. Holds a Ph.D. in CS Systems and Networking, from the University of Washington, with publications at top conferences including ICLR, SIGCOMM, NSDI, and SOSP."
+            }
+          ],
+          "funding": [
+            {
+              "investors": [
+                "Polychain",
+                "Avalanche",
+                "IMO Ventures",
+                "Chapter 1",
+                "Bankless Ventures",
+                "Faction",
+                "Modular Capital",
+                "Samsung Next",
+                "SNZ",
+                "LongHash Ventures"
+              ]
+            }
+          ],
+          "legal_issues": [],
+          "security_assessment": {},
+          "user_reviews": [],
+          "overall_summary": "Hyperbolic aims to democratize access to AI by providing an open-access platform that aggregates idle computing resources. The company is backed by leading investors and is led by a team of experienced professionals in AI and technology.",
+          "job_positions": []
+        },
+        {
+          "company_name": "Lightspark",
+          "website": "https://www.lightspark.com/",
+          "background": "Lightspark is focused on transforming payments by creating groundbreaking solutions that prioritize customer needs. The company aims to make money move as seamlessly as information on the Internet, providing accessible, reliable, enterprise-grade payment solutions.\nThe content provided does not include specific details about the company's background and history.\nLightspark enables low-cost, interoperable, and secure transactions that settle in real-time using the Lightning Network. The company offers solutions for global, real-time payments in any currency and provides enterprise-grade products and services for businesses to send and receive payments globally.\nLightspark is building enterprise-ready infrastructure for the Lightning Network, providing services and tools to facilitate global payments. The company aims to improve the financial system by enabling scalable internet payments. It is headquartered in Los Angeles but serves a global audience.",
+          "founders": [
+            {
+              "name": "David Marcus",
+              "background": "David Marcus is the CEO and co-founder of Lightspark. He previously led payments and crypto efforts at Meta/Facebook, started Diem (formerly Libra), and was PayPal’s President. He has a history of entrepreneurship, having founded Zong, a mobile payments company acquired by PayPal."
+            },
+            {
+              "name": "Christian Catalini",
+              "background": "Christian Catalini is the co-founder and Chief Strategy Officer at Lightspark. He co-created Diem (formerly Libra) and founded the MIT Crypto Economics Lab. He holds a PhD from the University of Toronto."
+            },
+            {
+              "name": "Kevin Hurley",
+              "background": "Kevin Hurley is the co-founder and Chief Technology Officer at Lightspark. He has extensive experience in the payments ecosystem, having worked on Diem, Novi, Messenger, and WhatsApp payments at Meta/Facebook."
+            },
+            {
+              "name": "Jai Massari",
+              "background": "Jai Massari is the co-founder and Chief Legal Officer at Lightspark. She was previously a partner at Davis Polk & Wardwell LLP, leading the fintech and cryptocurrency practice."
+            },
+            {
+              "name": "Christina Smedley",
+              "background": "Christina Smedley is the co-founder and Chief Marketing & Communications Officer at Lightspark. She has led marketing and communications teams at Amazon, Edelman, Facebook/Meta, PayPal, and Robinhood."
+            },
+            {
+              "name": "Tomer Barel",
+              "background": "Tomer Barel is the co-founder and Operating Partner at Lightspark. He has held executive roles at Meta/Facebook and PayPal, overseeing risk management, operations, and data science."
+            }
+          ],
+          "funding": [],
+          "legal_issues": [],
+          "security_assessment": {
+            "risks": [],
+            "vulnerabilities": []
+          },
+          "user_reviews": [],
+          "overall_summary": "Lightspark is a company dedicated to revolutionizing the payment industry with innovative solutions. They emphasize a culture of respect, humility, and determination, aiming to empower businesses globally.\nThe content primarily provides contact information and links to various sections of the Lightspark website, including solutions, products, company information, and support. It does not contain detailed information about the company's background, founders, funding, legal issues, security risks, or user reviews.\nLightspark is focused on providing real-time open payments for crypto wallets, cross-border transactions, and businesses using the Lightning Network. The company offers a range of solutions and products to facilitate efficient and secure transactions globally.\nLightspark is focused on building infrastructure for the Lightning Network to facilitate global payments. The company is led by a team with extensive experience in payments, blockchain, and technology, with a mission to improve the financial system. It is based in Los Angeles and serves a global market.",
+          "job_positions": []
+        },
+        {
+          "company_name": "AgoraHub",
+          "website": "https://www.agorahub.io/",
+          "background": "AgoraHub is a next-generation GameFi hub that combines gaming with financial opportunities, allowing users to engage with Web3 through loot boxes containing NFTs, tokens, and other prizes. The platform is powered by multiple blockchain networks including Polygon, Binance Smart Chain, Ethereum, Solana, and Arbitrum. It aims to facilitate crypto mass adoption by transitioning from a speculative space to a utility space through gaming.",
+          "founders": [
+            {
+              "name": "Pierre de Viry",
+              "background": "Founder & CEO of Agora. He emphasizes the transition of crypto from a speculative space to a utility space through gaming."
+            },
+            {
+              "name": "Anthony Lesoismier-Geniaux",
+              "background": "Co-Founder at Agora."
+            }
+          ],
+          "funding": [],
+          "legal_issues": [],
+          "security_assessment": {},
+          "user_reviews": [],
+          "overall_summary": "AgoraHub is a GameFi platform that integrates gaming with financial incentives, offering users the chance to win NFTs and tokens through loot boxes. It is supported by multiple blockchain networks and aims to drive crypto adoption by providing utility through gaming.",
+          "job_positions": []
+        },
+        {
+          "company_name": "Privy",
+          "website": "https://www.privy.io/",
+          "background": "Privy is a powerful authentication and key management platform designed to securely onboard, activate, and manage users at scale. It offers flexible wallet infrastructure and tools to securely onboard, manage, and grow user bases. The platform supports authentication and onboarding through various methods including email, SMS, social providers, and external wallets. It is built to work across multiple blockchain networks and provides enterprise-grade security.\nPrivy provides seamless UX for the whole user journey, offering features that work together through out-of-the-box components or bare-metal SDKs to help craft products. It is built for flexibility, allowing customization of components or direct use of hyper-flexible APIs for a full whitelabel experience. Privy supports web and mobile optimization with available SDKs.\nPrivy is focused on changing the way users connect to their favorite products by empowering users to maintain control over their data and assets online. The company emphasizes better developer tooling and is grounded in impact, focusing on product engineering to move the space forward.\nOur mission is to make privacy and user ownership the default online. We build simple, flexible developer tooling that make it easy to build products that put users first. By leveraging modern cryptography, we shift the status quo around digital ownership and protect the accounts and assets of millions of users.",
+          "founders": [
+            {
+              "name": "Asta Li",
+              "position": "Co-founder, CTO"
+            },
+            {
+              "name": "Henri Stern",
+              "position": "Co-founder, CEO"
+            }
+          ],
+          "funding": [],
+          "legal_issues": [],
+          "security_assessment": {
+            "security_risks": "Privy emphasizes the security of user data and assets as a top priority. The platform has undergone several audits including cryptography audits by Cure 53 and Zellic, a pentest by SwordBytes, and an infrastructure audit by Doyensec. It has also achieved SOC 2 Type I attestation and is in progress for SOC 2 Type II.",
+            "vulnerabilities": [],
+            "risks": []
+          },
+          "user_reviews": [],
+          "overall_summary": "Privy is a comprehensive platform for authentication and key management, focusing on secure user onboarding and management across blockchain networks. It offers robust security measures and has been audited by several security firms. The platform is trusted by industry leaders and supports a wide range of authentication methods.\nPrivy offers a comprehensive suite of tools for user management, authentication, and wallet infrastructure, designed to enhance user experience in web3 products. It supports various SDKs and provides robust wallet connectors, making it easy for users to sign in with existing wallets. Privy also focuses on user management, offering insights and analytics to help understand user engagement.\nPrivy is a company that aims to reshape user experiences and data infrastructure on the web by providing tools that allow users to maintain control over their data. The company is remote-friendly with a core hub in New York City and values diverse perspectives and impact-driven engineering.\nPrivy is focused on building developer tools that prioritize user privacy and ownership using modern cryptography. The company is looking for talented individuals to join their team and contribute to their mission.",
+          "job_positions": []
+        }
+      ],
+      "failed_companies": []
+    },
+    "timestamp": "2025-01-13T23:22:24.796154"
+  },
+  "[[\"max_companies\", 10], [\"urls\", [\"https://wellfound.com/startups/industry/web3-4\"]]]": {
+    "params": {
+      "urls": [
+        "https://wellfound.com/startups/industry/web3-4"
+      ],
+      "max_companies": 10
+    },
+    "result": {
+      "discovered_companies": [
+        {
+          "company_name": "Figment",
+          "website": "https://figment.io/",
+          "background": "Figment is a company that provides staking services, protocols, and solutions for digital assets. They offer a range of products and services designed to help institutions and individuals stake their digital assets securely and efficiently.\nFigment is a leading staking company providing comprehensive staking solutions for over 500 institutional clients. They offer infrastructure and APIs to help asset managers, exchanges, wallets, foundations, custodians, and token holders earn staking rewards.\nFigment is a leading provider of staking infrastructure, offering a comprehensive staking solution for institutional clients. The company supports the adoption, growth, and long-term success of the digital asset ecosystem by providing seamless staking services, portfolio reward tracking, API integrations, audited infrastructure, and slashing protection.",
+          "founders": [
+            {
+              "name": "Lorien Gabel",
+              "position": "CEO & Co-Founder",
+              "background": "Lorien Gabel is the CEO and Co-Founder of Figment."
+            },
+            {
+              "name": "Andrew Cronk",
+              "position": "CPO & Co-Founder",
+              "background": "Andrew Cronk is the CPO and Co-Founder of Figment."
+            },
+            {
+              "name": "Matt Harrop",
+              "position": "CTO & Co-Founder",
+              "background": "Matt Harrop is the CTO and Co-Founder of Figment."
+            }
+          ],
+          "funding": [],
+          "legal_issues": [],
+          "security_assessment": {
+            "risks": "Figment emphasizes security by integrating it throughout all aspects of their process and products. They offer three levels of insurance to protect clients against slashing and ensure validator key security.",
+            "vulnerabilities": "No specific vulnerabilities are mentioned, but Figment relies on its architecture, system design, and operational processes to protect against slashing and missed rewards."
+          },
+          "user_reviews": [],
+          "overall_summary": "Figment is a leading provider of staking solutions, offering a comprehensive suite of products and services for digital asset management. They are trusted by major companies in the industry and provide insights and tools to optimize staking rewards.\nFigment is a prominent player in the staking industry, trusted by major institutional clients for their robust infrastructure and comprehensive staking solutions. They focus on performance, product insights, and leveraging expert knowledge to support the Web3 ecosystem.\nFigment is a major player in the staking infrastructure space, trusted by top institutions for its security and performance. The company manages over $15 billion in staked assets and offers a range of services to optimize staking rewards and ensure the security of digital assets.",
+          "job_positions": [
+            "Engineering (4)",
+            "Marketing (1)",
+            "Operations (4)",
+            "Other (1)",
+            "Sales (3)"
+          ]
+        },
+        {
+          "company_name": "Genies",
+          "website": "https://genies.com/",
+          "background": "Genies is a company focused on powering the next generation of digital experiences through avatar technology and user-generated content (UGC) tools. They enable IP owners, developers, and creators to launch and co-create immersive, personalized, and gamified experiences, referred to as 'Parties'. Their technology stack supports dynamic identities, UGC, and interoperability, aiming to create an interoperable identity layer for the internet's future.",
+          "founders": [],
+          "funding": [],
+          "legal_issues": [],
+          "security_assessment": {},
+          "user_reviews": [],
+          "overall_summary": "Genies provides a platform for creating customizable mobile experiences called 'Parties', driven by AI avatars, personalized gameplay, and UGC. Their technology allows users to build relationships with Smart Avatars and co-create content, enhancing brand engagement. They also offer a talent network for collaboration with iconic figures in music, sports, and entertainment.",
+          "job_positions": [
+            "Designer (1)",
+            "Engineering (4)",
+            "Operations (2)",
+            "Other (3)"
+          ]
+        },
+        {
+          "company_name": "Curated Design",
+          "website": "https://www.curated.design/",
+          "background": "Curated Design is a web design inspiration catalog that offers a collection of web design inspirations from across the web. It provides a platform for users to explore various design styles, templates, and sections, and offers a Pro subscription for access to a growing library of sections.",
+          "founders": [],
+          "funding": [],
+          "legal_issues": [],
+          "security_assessment": {},
+          "user_reviews": [],
+          "overall_summary": "Curated Design is a platform that curates web design inspirations and offers a Pro subscription for enhanced access to design resources. It aims to unleash creativity by providing a diverse range of design styles and templates.",
+          "job_positions": [
+            "Sales (1)"
+          ]
+        },
+        {
+          "company_name": "Redox",
+          "website": "https://redoxengine.com/",
+          "background": "Redox is a company that specializes in healthcare data interoperability, enabling real-time data exchange across various healthcare entities. They provide solutions for vendors, providers, and payers to connect and manage healthcare data efficiently.\nRedox is a data interoperability platform that accelerates healthcare transformation by streamlining data exchange. It connects healthcare providers, payers, and digital health companies to enable effective patient treatment, clinical breakthroughs, and optimized operations.",
+          "founders": [],
+          "funding": [],
+          "legal_issues": [],
+          "security_assessment": {
+            "certifications": [
+              "HITRUST i1",
+              "HITRUST r2",
+              "SOC"
+            ],
+            "risks": []
+          },
+          "user_reviews": [],
+          "overall_summary": "Redox is a leading company in healthcare data interoperability, trusted by over 7,300 connected organizations. They offer a platform for seamless data exchange with a 99.95% uptime and hold multiple security certifications.\nRedox is a leader in healthcare data interoperability, with a strong network and unmatched domain expertise. It partners with major cloud providers and offers a platform that supports thousands of healthcare entities.",
+          "job_positions": [
+            "Engineering (1)",
+            "Marketing (2)",
+            "Other (1)",
+            "Sales (7)"
+          ]
+        },
+        {
+          "company_name": "Unknown",
+          "website": "https://www.reddit.com/r/web3/",
+          "background": "Information not available",
+          "founders": [],
+          "funding": [],
+          "legal_issues": [],
+          "security_assessment": {},
+          "user_reviews": [],
+          "overall_summary": "Failed to analyze company: No valid URLs found to crawl",
+          "job_positions": [
+            "Designer (1)",
+            "Engineering (84)",
+            "Marketing (3)",
+            "Operations (15)",
+            "Other (31)",
+            "Product (8)",
+            "Sales (25)"
+          ]
+        },
+        {
+          "company_name": "QuillAudits",
+          "website": "https://www.quillaudits.com/",
+          "background": "The QuillAudits team consists of expert security researchers and auditors specializing in Web3 and blockchain technology. With 1,000+ audits completed, $30B secured, and over 1 million lines of code reviewed, they maintain a flawless record with zero exploits. Their dedication to thorough, reliable security assessments safeguards and advances the blockchain ecosystem.",
+          "founders": [
+            {
+              "name": "Preetam Rao",
+              "position": "Co-founder & CEO"
+            },
+            {
+              "name": "Rajat Gahlot",
+              "position": "Co-founder, CSO"
+            }
+          ],
+          "funding": [],
+          "legal_issues": [],
+          "security_assessment": {
+            "risks": "No vulnerabilities or exploits reported.",
+            "vulnerabilities": "Zero exploits reported."
+          },
+          "user_reviews": [],
+          "overall_summary": "QuillAudits is a leading company in Web3 security, known for its comprehensive audits and zero-exploit record. They have secured over $30 billion in assets and reviewed over a million lines of code. The company is trusted by major blockchain projects and continues to set standards in blockchain security.",
+          "job_positions": [
+            "Marketing (4)",
+            "Operations (1)",
+            "Other (1)",
+            "Sales (1)"
+          ]
+        },
+        {
+          "company_name": "Tronic",
+          "website": "https://tronic.app/",
+          "background": "Tronic offers products such as Smart Wallet®, Journeys®, and Security solutions. They focus on enhancing customer experiences and providing secure technology solutions.\nTronic is a company focused on enhancing brand engagement through gamification, real-time engagement, and a secure interoperable brand network. It offers products like Smart Wallet® and Tronic Journeys™ to enable brands to issue virtual brand wallets, credentials, and rewards. The platform supports cross-brand collaboration and provides real-time insights and performance enhancements.\nDiscover Tronic and align yourself with where your customers want to be.\nAt Tronic, we believe in revolutionizing the way businesses engage with their customers. Our mission is to transform ordinary interactions into immersive experiences through innovative loyalty solutions powered by cutting-edge technology. Tronic is a leading provider of next-generation loyalty programs, dedicated to helping businesses across various industries build meaningful connections with their customers. With a team of passionate experts and a commitment to excellence, we empower brands to redefine customer loyalty in the digital age. We offer a loyalty solution designed to drive customer engagement, retention, and personalization. Our platform seamlessly integrates advanced technology, personalized rewards, and gamified experiences to create compelling Tronic Journeys™ tailored to the unique needs of each business.",
+          "founders": [],
+          "funding": [],
+          "legal_issues": [],
+          "security_assessment": {
+            "security_risks": "Tronic takes information security and data privacy seriously, using continuous monitoring and threat detection. They hire independent auditors and assessors to validate the security of their infrastructure and operating environment.",
+            "blockchain_security": "Information not provided in the content."
+          },
+          "user_reviews": [],
+          "overall_summary": "Tronic is a company that provides innovative solutions like Smart Wallet® and Journeys® to improve customer experiences. They emphasize security and offer resources for various industries.\nTronic is a forward-thinking company that leverages gamification and real-time engagement to enhance brand loyalty and community interaction. It provides a secure platform for brands to issue virtual wallets and rewards, supported by a global brand partner network. The company emphasizes security and data privacy, ensuring a trusted environment for its users.\nNo information available due to application error.\nTronic offers products like Smart Wallet®, Journeys®, and Security. The company is focused on enhancing customer experiences and values privacy.\nTronic is a company focused on transforming customer interactions into immersive experiences through innovative loyalty solutions. They provide next-generation loyalty programs that integrate advanced technology, personalized rewards, and gamified experiences to enhance customer engagement and retention.",
+          "job_positions": [
+            "Engineering (4)"
+          ]
+        },
+        {
+          "company_name": "Unknown",
+          "website": "https://www.offchainlabs.com/",
+          "background": "Information not available",
+          "founders": [],
+          "funding": [],
+          "legal_issues": [],
+          "security_assessment": {},
+          "user_reviews": [],
+          "overall_summary": "Failed to analyze company: No valid URLs found to crawl",
+          "job_positions": [
+            "Designer (1)",
+            "Engineering (2)",
+            "Marketing (3)",
+            "Other (5)",
+            "Other Engineering (1)",
+            "Product (2)",
+            "Sales (3)"
+          ]
+        },
+        {
+          "company_name": "Xverse",
+          "website": "https://www.xverse.app/",
+          "background": "Xverse is a Bitcoin wallet designed for everyone, offering a platform to store, send, and receive Bitcoin assets. It is available on iOS, Android, and Chrome on desktop. The wallet supports Bitcoin, Ordinals, BRC-20 tokens, Stacks, and SIP-10 tokens, with a focus on security through hardware cold storage support.",
+          "founders": [],
+          "funding": [],
+          "legal_issues": [],
+          "security_assessment": {
+            "description": "Security is a top priority for Xverse, with support for hardware cold storage to keep assets safe. The platform includes built-in Ledger support for enhanced security."
+          },
+          "user_reviews": [],
+          "overall_summary": "Xverse is a comprehensive Bitcoin wallet platform trusted by over 1,000,000 users. It offers a secure environment for managing Bitcoin and digital collectibles, with features like Ledger support and the ability to earn Bitcoin rewards through stacking. The platform is recognized by major publications such as CoinDesk, Decrypt, and Bitcoin Magazine.",
+          "job_positions": [
+            "Engineering (4)",
+            "Marketing (3)",
+            "Sales (1)"
+          ]
+        },
+        {
+          "company_name": "Unknown",
+          "website": "https://x.com/dorg_tech?lang=en",
+          "background": "",
+          "founders": [],
+          "funding": [],
+          "legal_issues": [],
+          "security_assessment": {
+            "risks": [],
+            "vulnerabilities": []
+          },
+          "user_reviews": [],
+          "overall_summary": "No relevant information could be extracted due to technical issues accessing the page.",
+          "job_positions": [
+            "Engineering (1)"
+          ]
+        }
+      ],
+      "failed_companies": []
+    },
+    "timestamp": "2025-01-13T23:38:36.074747"
+  },
+  "[[\"max_companies\", 10], [\"urls\", [\"https://www.ycombinator.com/companies/industry/crypto-web3\"]]]": {
+    "params": {
+      "urls": [
+        "https://www.ycombinator.com/companies/industry/crypto-web3"
+      ],
+      "max_companies": 10
+    },
+    "result": {
+      "discovered_companies": [
+        {
+          "company_name": "Coinbase",
+          "website": "https://www.coinbase.com/public-policy/advocacy/documents/blockchain-and-ai",
+          "background": "Coinbase is a leading cryptocurrency exchange platform that provides a variety of services including buying, selling, and managing cryptocurrencies. The company is involved in public policy advocacy and explores the intersection of blockchain and AI technologies.",
+          "founders": [],
+          "funding": [],
+          "legal_issues": [],
+          "security_assessment": {},
+          "user_reviews": [],
+          "overall_summary": "Coinbase is at the forefront of the digital revolution, leveraging blockchain and AI technologies to enhance economic and social potential. The company is focused on creating a supportive ecosystem for these technologies while addressing challenges such as fraud and regulatory environments.",
+          "job_positions": [
+            "Learn more about our mission, culture, and hiring process."
+          ]
+        },
+        {
+          "company_name": "Protocol Labs",
+          "website": "https://www.protocol.ai/",
+          "background": "Protocol Labs is an innovation network driving breakthroughs in computing to push humanity forward. It connects more than 600 tech startups, funds, accelerators, foundations, open source projects, service providers, and other organizations. Their work spans the entire R&D pipeline, across fields like web3, AI, AR, VR, BCI, hardware, and more.\nProtocol Labs is an innovation network that connects over 600 tech startups, service providers, investment funds, accelerators, foundations, and other organizations developing breakthrough technologies and products in the frontiers of computing: web3, AI, AR, VR, BCI, hardware, and more. Organizations collaborate across the network to solve common problems, share knowledge and resources, and accelerate the R&D process for a wide range of technological fields.\nProtocol Labs is an innovation network driving breakthroughs in computing to push humanity forward. It connects more than 600 tech startups, funds, accelerators, foundations, open source projects, service providers, and other organizations. Their work spans the entire R&D pipeline, across fields like web3, AI, AR, VR, BCI, hardware, and more.",
+          "founders": [
+            {
+              "name": "Juan Benet",
+              "background": "Juan Benet is the founder of Protocol Labs. He has been involved in various talks and summits, such as the PL Summit 2022 and the Web3 Summit, discussing the vision and future of Protocol Labs."
+            },
+            {
+              "name": "Juan Benet",
+              "background": "Founded Protocol Labs in 2014 to improve the internet and computing. Part of the S14 program."
+            }
+          ],
+          "funding": [
+            {
+              "year": 2014,
+              "details": "PL raises funding from prominent technology investors."
+            },
+            {
+              "year": 2016,
+              "details": "Protocol Labs raises funding from prominent investors."
+            },
+            {
+              "year": 2017,
+              "details": "PL raises $205.8M total through a token sale."
+            }
+          ],
+          "legal_issues": [],
+          "security_assessment": {},
+          "user_reviews": [],
+          "overall_summary": "Protocol Labs is a leading innovation network focused on advancing computing technologies to benefit humanity. It supports a wide range of projects and startups in the tech industry, particularly in areas like web3 and AI.\nProtocol Labs is a network of innovators focused on advancing computing technologies. Founded by Juan Benet, the company has been instrumental in developing protocols like IPFS and Filecoin. It has raised significant funding and continues to expand its influence in the tech industry.\nProtocol Labs is a network focused on driving innovation in computing, with projects like Filecoin, IPFS, and libp2p. It collaborates with a wide range of organizations to advance fields such as web3, AI, and more.",
+          "job_positions": []
+        },
+        {
+          "company_name": "CoinTracker",
+          "website": "https://www.cointracker.io/",
+          "background": "CoinTracker makes cryptocurrency portfolio tracking and tax compliance simple. It enables consumers and businesses to seamlessly track their cryptocurrency portfolio, investment performance, taxes, and more. CoinTracker is a globally distributed team on a mission to enable everyone in the world to use crypto with peace of mind.\nCoinTracker is a platform that connects cryptocurrency wallets and exchanges to help users manage their crypto and bitcoin taxes efficiently.\nCoinTracker is focused on enabling everyone in the world to use crypto with peace of mind. They are building foundational tools for cryptocurrency users to build wealth, file taxes, and optimize their portfolio year-round, aiming to be 10X better than traditional financial tools.",
+          "founders": [
+            {
+              "name": "Founders",
+              "background": "Previously built TextNow (200M downloads), was previously a product manager at Google & Google[x]"
+            }
+          ],
+          "funding": [
+            {
+              "amount": "$100M+",
+              "investors": [
+                "Accel",
+                "General Catalyst",
+                "Y Combinator",
+                "Initialized Capital",
+                "Coinbase Ventures",
+                "Kraken Ventures",
+                "Intuit Ventures",
+                "776 Ventures"
+              ]
+            },
+            {
+              "investors": [
+                "Accel",
+                "General Catalyst",
+                "Y Combinator",
+                "Initialized Capital",
+                "Coinbase Ventures",
+                "Kraken Ventures",
+                "Intuit Ventures",
+                "776 Fund Management"
+              ]
+            }
+          ],
+          "legal_issues": [],
+          "security_assessment": {
+            "risks": [],
+            "vulnerabilities": []
+          },
+          "user_reviews": [],
+          "overall_summary": "CoinTracker is a leading platform in the cryptocurrency space, known for its robust portfolio tracking and tax compliance tools. It has generated over 1M tax forms and tracks over $80B in cryptocurrency. The company has strong partnerships with major players like Coinbase and Intuit TurboTax and has raised significant venture capital funding.\nCoinTracker provides a service for managing cryptocurrency portfolios and tax reporting. The website offers integrations with various exchanges and wallets, and provides resources such as a crypto tax guide and a blog.\nCoinTracker is a globally distributed company that provides tools for cryptocurrency users to manage their portfolios and taxes. They are backed by top investors and offer a flexible work environment with various benefits for employees.",
+          "job_positions": [
+            "Learn more about our mission, culture, and hiring process."
+          ]
+        },
+        {
+          "company_name": "TRM Labs",
+          "website": "https://www.trmlabs.com/",
+          "background": "TRM Labs provides blockchain intelligence solutions to detect crypto-facilitated crime, ensuring compliance and safety worldwide. They offer services such as investigations, compliance, and professional services tailored for various industries including public sector, crypto businesses, and financial institutions.\nTRM Labs is on a mission to build trust in digital assets by blending blockchain data with advanced analytics to help financial institutions and governments fight crypto-based financial crime. The company aims to enable consumers to transact safely and securely on the blockchain.\nTRM Labs blends blockchain data with advanced analytics to help financial institutions and governments fight fraud, money laundering, and financial crime. They believe cryptocurrency will democratize financial services, leading to greater access and new financial products, while also introducing new global risks. TRM Labs aims to build solutions that achieve financial inclusion, privacy, and safety.",
+          "founders": [],
+          "funding": [
+            {
+              "investors": [
+                "Bessemer Venture Partners",
+                "Blockchain Capital",
+                "Initialized Capital",
+                "Tiger Global",
+                "Jump Capital",
+                "Y Combinator",
+                "Amex Ventures",
+                "Block",
+                "Citi Ventures",
+                "PayPal",
+                "Salesforce",
+                "Visa"
+              ]
+            }
+          ],
+          "legal_issues": [],
+          "security_assessment": {
+            "risks": [],
+            "vulnerabilities": []
+          },
+          "user_reviews": [],
+          "overall_summary": "TRM Labs is a leading provider of blockchain intelligence solutions, trusted globally by government agencies, financial institutions, and crypto businesses. They offer extensive asset coverage, cross-chain analytics, and a comprehensive set of risk indicators to help organizations investigate, monitor, and detect financial crime.\nTRM Labs is a company focused on providing blockchain intelligence to detect crypto-facilitated crime, ensuring compliance and safety worldwide. It is backed by top venture firms and aims to build a safer, more secure financial system.\nTRM Labs is focused on building a safer financial system by leveraging blockchain intelligence to detect crypto-facilitated crime. They offer solutions in investigations, compliance, and professional services, and are backed by top investors including Bessemer Venture Partners, Blockchain Capital, Initialized, Tiger Global, Jump Capital, Y Combinator, Amex Ventures, Block, Citi Ventures, PayPal, Salesforce, and Visa.",
+          "job_positions": [
+            "Join our mission ➔ www.trmlabs.com/careers"
+          ]
+        },
+        {
+          "company_name": "OpenSea",
+          "website": "https://opensea.io/",
+          "background": "OpenSea is a leading marketplace for non-fungible tokens (NFTs), allowing users to buy, sell, and trade digital assets.\nOpenSea is a leading marketplace for non-fungible tokens (NFTs), allowing users to buy, sell, and trade digital assets.\nOpenSea is a leading marketplace for non-fungible tokens (NFTs), allowing users to buy, sell, and trade digital assets. The company was founded in April 2021.\nOpenSea is the world’s first and largest digital marketplace for crypto collectibles and non-fungible tokens (NFTs). It allows users to buy, sell, and discover exclusive digital items.\nOpenSea is the world’s first and largest digital marketplace for crypto collectibles and non-fungible tokens (NFTs). It allows users to buy, sell, and discover exclusive digital items.\nOpenSea is the first and largest marketplace for non-fungible tokens (NFTs), founded in 2017. It allows users to trade unique digital goods that are provably scarce, tradeable, and usable across multiple applications. OpenSea supports multiple blockchains and offers a wide range of categories for digital items.\nOpenSea is the world’s first and largest digital marketplace for crypto collectibles and non-fungible tokens (NFTs). It allows users to buy, sell, and discover exclusive digital items.",
+          "founders": [
+            {
+              "name": "Devin Finzer",
+              "background": "Co-founder and CEO of OpenSea. Devin Finzer was involved in early adopter communities and played a key role in the beta launch of OpenSea in December 2017."
+            },
+            {
+              "name": "Alex Atallah",
+              "background": "Co-founder of OpenSea. Alex Atallah joined early adopter communities and contributed to the development and launch of OpenSea."
+            }
+          ],
+          "funding": [
+            {
+              "details": "OpenSea is backed by top firms and industry leaders including Andreessen Horowitz, Coinbase, Y Combinator, Trust Wallet, Quantstamp, Blockstack, NFTKred, Founders Fund, Blockchain Capital, Pascal Capital, and 1C Company. Notable angel investors include Mark Cuban, 3LAU, Tim Ferriss, Dylan Field, Ben Silberman, Alexis Ohanian, Balaji Srinivasan, Belinda Johnson, Naval Ravikant, Justin Kan, Avichal Garg, Linda Xie, Kevin Durant, Ashton Kutcher, and Tobie Lütke."
+            }
+          ],
+          "legal_issues": [],
+          "security_assessment": {
+            "details": "OpenSea strives to be the most trustworthy and secure marketplace for NFTs. They prioritize finding and eliminating vulnerabilities and value their partnership with the vulnerability hunting community.",
+            "risks": [],
+            "vulnerabilities": []
+          },
+          "user_reviews": [],
+          "overall_summary": "The provided content from OpenSea's website does not contain detailed information about the company's background, founders, funding, legal issues, security risks, or user reviews. It primarily focuses on user interactions with the platform, such as collections, offers, and deals.\nThe provided content does not contain detailed information about OpenSea's company background, founders, funding, legal issues, security risks, or user reviews. It primarily focuses on the team's activity and collections on the platform.\nOpenSea is a prominent platform in the NFT space, providing a marketplace for digital assets. The company has been operational since April 2021.\nOpenSea is a leading platform in the NFT space, providing a marketplace for various digital assets including art, gaming items, memberships, and more. It offers resources for learning about NFTs and how to engage with the platform.\nOpenSea is a leading platform in the NFT space, offering a marketplace for digital assets. The company emphasizes values such as trust, innovation, and collaboration within the web3 ecosystem. It provides various perks to its employees, including flexible hours and health insurance.\nOpenSea is a pioneering platform in the NFT space, providing a marketplace for digital collectibles and non-fungible tokens. It has grown to support multiple blockchains and offers a wide range of digital item categories. The company is backed by prominent investors and continues to focus on security and infrastructure development.\nOpenSea is a leading platform in the NFT space, providing a marketplace for digital assets. The website offers various resources for learning about NFTs, blockchain, and web3 technologies.",
+          "job_positions": []
+        },
+        {
+          "company_name": "Democracy Earth Foundation",
+          "website": "https://democracy.earth/",
+          "background": "Democracy Earth Foundation is a 501(c)3 not-for-profit organization based in San Francisco, CA. It aims to pioneer a new global commons by providing tools for a borderless democracy. The foundation focuses on decentralized human identity and universal basic income through blockchain technology.",
+          "founders": [
+            {
+              "name": "Santiago Siri",
+              "background": "Code"
+            },
+            {
+              "name": "Pia Mancini",
+              "background": "Voice"
+            },
+            {
+              "name": "Herb Stephens",
+              "background": "Finance"
+            }
+          ],
+          "funding": [],
+          "legal_issues": [],
+          "security_assessment": {
+            "risks": "The platform emphasizes privacy by not using biometrics or real names, and it is built on blockchain technology which inherently has security considerations. However, specific security risks or vulnerabilities are not detailed in the provided content."
+          },
+          "user_reviews": [],
+          "overall_summary": "Democracy Earth Foundation is focused on creating a decentralized and borderless democracy using blockchain technology. It offers Proof of Humanity for decentralized identity verification and Universal Basic Income (UBI) tokens streamed via Ethereum. The foundation is recognized for its innovative approach to democracy and has published white papers outlining its vision.",
+          "job_positions": []
+        },
+        {
+          "company_name": "Notabene",
+          "website": "https://notabene.id/",
+          "background": "Notabene is a leading reg-tech compliance solution bridging the traditional financial industry with the rapidly evolving crypto industry. It offers a pioneering FATF Travel Rule solution trusted by financial institutions and crypto exchanges worldwide to ensure seamless regulatory compliance and risk management.\nNotabene is a company that provides a pre-transaction decision-making platform for crypto travel rule compliance. It offers solutions to identify and stop illicit activity before it occurs, with a focus on end-to-end counterparty verification. The platform supports over 1,500 VASPs, covers 185+ jurisdictions, and handles $600B+ in transaction volume.",
+          "founders": [],
+          "funding": [],
+          "legal_issues": [],
+          "security_assessment": {
+            "description": "Notabene emphasizes enterprise-grade security and privacy, offering bank-grade security at every layer, real-time security vulnerability checks, and encryption of all sensitive data. It complies with EU GDPR and Singapore PDPA, and provides enterprise-ready authentication mechanisms."
+          },
+          "user_reviews": [],
+          "overall_summary": "Notabene is at the forefront of pre-transaction decision-making and crypto regulatory compliance, aiming to make crypto transactions an integral part of the everyday economy. The company provides a collaborative environment where contributions directly impact its trajectory and success in a dynamic market.\nNotabene is a leading provider of compliance solutions for the crypto industry, focusing on the FATF's Travel Rule. It offers a comprehensive platform for transaction risk management, counterparty verification, and compliance with global standards. The company is trusted by major crypto companies and financial institutions for its robust security and compliance capabilities.",
+          "job_positions": []
+        },
+        {
+          "company_name": "QuickNode",
+          "website": "https://www.quicknode.com/",
+          "background": "At QuickNode, we're transforming blockchain infrastructure to empower developers and businesses worldwide. Our mission is to deliver fast, reliable, and scalable solutions that support the growth of onchain applications.\nQuickNode believes the future of the internet is private, trustless and censorship resistant. Their mission is to help blockchain ecosystems scale by providing accessible core infrastructure. They offer elastic APIs, powerful tools, and analytics through a simple control panel. QuickNode is a multinational team with over 40 years of combined experience managing datacenters, high-speed networks, and distributed systems.\nQuickNode provides blockchain infrastructure services, offering tools and resources for developers to build decentralized applications. The company focuses on delivering secure, decentralized innovation with a globally-balanced infrastructure, ensuring reliability and security.",
+          "founders": [
+            {
+              "name": "Alex Nabutovsky",
+              "role": "Co-founder & co-CEO",
+              "background": "Makes sure the ship runs tight and on time."
+            },
+            {
+              "name": "Dmitry Shklovsky",
+              "role": "Co-founder and co-CEO",
+              "background": "Dreaming up product and talking to customers."
+            }
+          ],
+          "funding": [],
+          "legal_issues": [],
+          "security_assessment": {
+            "risks": [],
+            "certifications": [
+              "AICPA SOC 1 Type 2",
+              "SOC 2 Type 2"
+            ]
+          },
+          "user_reviews": [],
+          "overall_summary": "QuickNode is a company focused on providing blockchain infrastructure solutions. They offer a range of products and services aimed at developers and businesses to facilitate the growth of onchain applications. The company emphasizes a culture of innovation, inclusivity, and growth, with a remote-first work environment and various employee benefits.\nQuickNode is focused on providing scalable blockchain infrastructure solutions. They emphasize privacy, trustlessness, and censorship resistance. The company is led by experienced founders and a diverse team, aiming to simplify blockchain application development and scaling.\nQuickNode is a blockchain infrastructure provider that offers a range of services including APIs, real-time data streams, and managed blockchain solutions. The company emphasizes performance, reliability, and security, supporting over 60 blockchain networks. It is trusted by leading businesses and web3 projects for its robust infrastructure and technical support.",
+          "job_positions": []
+        }
+      ],
+      "failed_companies": []
+    },
+    "timestamp": "2025-01-13T23:48:00.451527"
+  }
+}
