@@ -104,7 +104,7 @@ async def get_company_info(company_name: str, model: str) -> str:
         "messages": [
             {
                 "role": "assistant",
-                "content": f"{company_name} 的公司业务和背景，创始人资料和背景，融资情况，法律纠纷，安全风险评估以及用户评价"
+                "content": f"介绍 {company_name} 这家属于 web3 行业还是 AI 行业公司的业务和背景，创始人资料和背景，融资情况，法律纠纷，安全风险评估以及用户评价"
             }
         ],
         "stream": False
