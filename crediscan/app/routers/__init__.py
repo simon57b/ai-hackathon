@@ -5,3 +5,5 @@
 # from .discover import router as discover
 
 # __all__ = ['search', 'model', 'aggregate', 'analyzer', 'discover'] 
+
+# Empty __init__.py to make the directory a Python package 

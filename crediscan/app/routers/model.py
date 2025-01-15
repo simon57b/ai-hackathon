@@ -6,7 +6,7 @@ router = APIRouter()
 
 class ModelQuery(BaseModel):
     prompt: str
-    model: str
+    model: str = "gpt-3.5-turbo"
 
 @router.post("/")
 async def process_model_query(query: ModelQuery):
