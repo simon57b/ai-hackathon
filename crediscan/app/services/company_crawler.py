@@ -247,6 +247,7 @@ class CompanyAnalyzer:
                     "--disable-gpu",
                     "--disable-dev-shm-usage",
                     "--no-sandbox",
+                    "--disable-setuid-sandbox",
                     "--disable-blink-features=AutomationControlled",
                     '--no-first-run',
                     '--no-zygote',
