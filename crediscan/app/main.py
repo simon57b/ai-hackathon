@@ -24,7 +24,7 @@ app = FastAPI(title="Crediscan - AI Crawler Application")
 # configure CORS
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://98.85.55.163:8011", "*"],
+    allow_origins=["http://98.85.55.163:8011"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
