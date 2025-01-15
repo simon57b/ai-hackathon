@@ -92,7 +92,7 @@ async def get_company_info(company_name: str, model: str) -> str:
         raise ValueError("No valid tokens available")
         
     token = random.choice(tokens)
-    url = "https://81a5-103-252-19-128.ngrok-free.app/v1/chat/completions"
+    url = "http://localhost:8000/v1/chat/completions"
     print(f"Using metaso token: {token}")
     headers = {
         "Content-Type": "application/json",
