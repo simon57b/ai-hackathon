@@ -9,6 +9,8 @@ import re
 from ..utils.model_api import query_model
 from ..utils.cache_manager import CacheManager
 import os
+import traceback
+import asyncio
 
 router = APIRouter()
 aggregate_cache = CacheManager("aggregate_result.json")
@@ -42,42 +44,87 @@ def clean_content(content: str) -> str:
     return content
 
 async def translate_and_optimize(content: str) -> str:
-    """use the OpenAI API to translate and optimize the content, process long text by paragraphs"""
-    # split the content by paragraphs
-    paragraphs = content.split('\n\n')
-    translated_paragraphs = []
-    
-    for paragraph in paragraphs:
-        if not paragraph.strip():
-            continue
-            
-        prompt = f"""
-        Please translate the following Chinese text to English and optimize it. 
-        Maintain all original Markdown formatting and structure.
-        Make the translation professional and natural while preserving all factual information.
+    """Optimize content translation using GPT with minimal API calls"""
+    try:
+        # 1. Clean and prepare content
+        paragraphs = [p.strip() for p in content.split('\n\n') if p.strip()]
+        if not paragraphs:
+            return ""
         
-        Text to translate:
-        {paragraph}
-        """
+        # 2. Combine paragraphs into chunks to minimize API calls
+        # 减小输入块大小到2000字符，但保持较大的输出token限制
+        MAX_CHARS_PER_CHUNK = 1000  # 减小输入块大小
+        chunks = []
+        current_chunk = []
+        current_length = 0
         
-        try:
-            response = await query_model(
-                prompt=prompt,
-                model="gpt-3.5-turbo-0125",
-                max_tokens=4000
-            )
-            if response and 'choices' in response:
-                translated_content = response['choices'][0]['message']['content']
-                translated_paragraphs.append(translated_content.strip())
+        for para in paragraphs:
+            para_length = len(para)
+            if current_length + para_length > MAX_CHARS_PER_CHUNK:
+                if current_chunk:
+                    chunks.append('\n\n'.join(current_chunk))
+                current_chunk = [para]
+                current_length = para_length
             else:
-                raise ValueError("Invalid response from OpenAI API")
-        except Exception as e:
-            print(f"Translation error for paragraph: {e}")
-            # if translation fails, keep the original text
-            translated_paragraphs.append(paragraph)
-    
-    # merge all translated paragraphs
-    return '\n\n'.join(translated_paragraphs)
+                current_chunk.append(para)
+                current_length += para_length
+        
+        if current_chunk:
+            chunks.append('\n\n'.join(current_chunk))
+        
+        # 3. Process each chunk with a single API call
+        translated_chunks = []
+        for i, chunk in enumerate(chunks):
+            print(f"\nProcessing chunk {i+1}/{len(chunks)} (length: {len(chunk)})")
+            print(f"Chunk content preview: {chunk[:100]}...")
+            
+            prompt = f"""Translate the following Chinese text to English.
+Requirements:
+- Keep the translation complete and accurate
+- Maintain all original formatting and structure
+- Keep technical terms, names, and numbers unchanged
+- Make it professional and natural
+
+Text to translate:
+{chunk}"""
+            
+            try:
+                response = await query_model(
+                    prompt=prompt,
+                    model="gpt-3.5-turbo-0125",
+                    max_tokens=4000,  # 保持较大的输出token限制
+                    temperature=0.3
+                )
+                
+                if (response and 
+                    isinstance(response, dict) and 
+                    'choices' in response and 
+                    len(response['choices']) > 0 and 
+                    'message' in response['choices'][0] and 
+                    'content' in response['choices'][0]['message']):
+                    
+                    translated_content = response['choices'][0]['message']['content']
+                    print(f"Successfully translated chunk {i+1}. Preview: {translated_content[:100]}...")
+                    translated_chunks.append(translated_content.strip())
+                else:
+                    print(f"Warning: Invalid response format for chunk {i+1}: {json.dumps(response, ensure_ascii=False)}")
+                    translated_chunks.append(chunk)
+                    
+            except Exception as e:
+                print(f"Error translating chunk {i+1}: {str(e)}")
+                print(f"Full error details: {traceback.format_exc()}")
+                await asyncio.sleep(5)
+                translated_chunks.append(chunk)
+        
+        # 4. Combine all translated chunks
+        result = '\n\n'.join(translated_chunks)
+        print(f"Translation completed. Total chunks: {len(chunks)}, Final length: {len(result)}")
+        return result
+        
+    except Exception as e:
+        print(f"Error in translate_and_optimize: {str(e)}")
+        print(f"Full error details: {traceback.format_exc()}")
+        return content  # Return original content if translation fails
 
 @retry(
     stop=stop_after_attempt(3),

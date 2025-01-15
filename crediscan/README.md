@@ -97,3 +97,25 @@ Once the application is running, access the API documentation at:
 
 MIT License
 
+The API will be available at `http://localhost:8000`
+
+## Verify Installation
+
+1. Open your browser and visit:
+   - API Documentation: `http://localhost:8000/docs`
+   - Alternative Documentation: `http://localhost:8000/redoc`
+
+2. Test the API health check:
+   ```bash
+   curl http://localhost:8000/
+   ```
+   Should return: `{"message": "Welcome to Crediscan API"}`
+
+## API Endpoints
+
+### Search
+- `GET /search?query={search_term}` - Perform a search using Serper
+
+### Model
+- `POST /model` - Query an AI model
+
