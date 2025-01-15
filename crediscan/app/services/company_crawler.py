@@ -251,7 +251,17 @@ class CompanyAnalyzer:
                     '--no-first-run',
                     '--no-zygote',
                     '--single-process',
-                    '--user-data-dir=/tmp/chrome-user-data'
+                    '--incognito',
+                    '--user-data-dir=/tmp/temp-chrome-profile',
+                    '--disable-extensions',
+                    '--disable-background-networking',
+                    '--disable-default-apps',
+                    '--disable-sync',
+                    '--disable-translate',
+                    '--metrics-recording-only',
+                    '--safebrowsing-disable-auto-update',
+                    '--password-store=basic',
+                    '--remote-debugging-port=9222'
                 ]
             )) as crawler:
                 await crawler.start()
