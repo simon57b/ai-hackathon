@@ -247,7 +247,11 @@ class CompanyAnalyzer:
                     "--disable-gpu",
                     "--disable-dev-shm-usage",
                     "--no-sandbox",
-                    "--disable-blink-features=AutomationControlled"
+                    "--disable-blink-features=AutomationControlled",
+                    '--no-first-run',
+                    '--no-zygote',
+                    '--single-process',
+                    '--user-data-dir=/tmp/chrome-user-data'
                 ]
             )) as crawler:
                 await crawler.start()
